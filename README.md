@@ -1,0 +1,2 @@
+# Keras---Python-Deep-Learning-Neural-Network-API
+This series will teach you how to use Keras, a neural network API written in Python. Each video focuses on a specific concept and shows how the full implementation is done in code using Keras and Python. We will learn how to preprocess data, organize data for training, validation and testing, build an artificial neural network from scratch, train an artificial neural network, build a convolutional neural network (CNN) and much more!
